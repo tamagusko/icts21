@@ -19,4 +19,4 @@ License: [CC-BY-NC-ND-4.0](/LICENSE)
 > <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/covid19DataPT.csv">/data/covid19DataPT.csv</a> (Data formatted for Portugal)
 
 # Citation
-Tamagusko T., Ferreira A. (2020). Mobility patterns of the Portuguese population during the COVID-19 pandemic. Submitted to  International Conference on Information Technology & Systems (ICTS) 2021. Retrieved from https://github.com/tamagusko/icts21
+Tamagusko, T. and Ferreira, A. (2020). Mobility patterns of the Portuguese population during the COVID-19 pandemic. Submitted to  International Conference on Information Technology & Systems (ICTS) 2021. Retrieved from https://github.com/tamagusko/icts21
