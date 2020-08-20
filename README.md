@@ -1,4 +1,4 @@
-This repository contains the results of paper "Mobility patterns of the Portuguese population during the COVID-19 pandemic" submitted to International Conference on Information Technology & Systems.
+This repository contains the results of paper "Mobility patterns of the Portuguese population during the COVID-19 pandemic" submitted to International Conference on Information Technology & Systems (ICTS) 2021.
 
 # Basic info
 © Tiago Tamagusko and Adelino Ferreira  
