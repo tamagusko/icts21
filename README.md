@@ -16,7 +16,8 @@ License: [CC-BY-NC-ND-4.0](/LICENSE)
 > Raw data:  
 > Roser, M.; Ritchie, H.; Ortiz-Ospina, E.; Hasell, J. Coronavirus Pandemic (COVID-19) - Statistics and Research Available online: https://ourworldindata.org/coronavirus (accessed on Ago 20, 2020)  
 > Processed data:  
-> <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/covid19DataPT.csv">/data/covid19DataPT.csv</a> (Data formatted for Portugal)
+> <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/covid19DataPT.csv">/data/covid19DataPT.csv</a> (Data formatted for Portugal)  
+> <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/resultRtPT.csv">/data/resultRtPT.csv</a> (Rt calculated for Portugal)
 
 # Citation
 Tamagusko, T. and Ferreira, A. (2020). Mobility patterns of the Portuguese population during the COVID-19 pandemic. Submitted to  International Conference on Information Technology & Systems (ICTS) 2021. ArXiv ID: https://arxiv.org/abs/2007.06506. Retrieved from https://github.com/tamagusko/icts21
