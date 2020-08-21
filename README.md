@@ -21,4 +21,4 @@ License: [CC-BY-NC-ND-4.0](/LICENSE)
 > <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/resultRtPT.csv">/data/resultRtPT.csv</a> (Rt calculated for Portugal)
 
 # Citation
-Tamagusko, T. and Ferreira, A. (2020). Mobility patterns of the Portuguese population during the COVID-19 pandemic. Submitted to  International Conference on Information Technology & Systems (ICTS) 2021. ArXiv ID: https://arxiv.org/abs/2007.06506. Retrieved from https://github.com/tamagusko/icts21
+Tamagusko, T. and Ferreira, A. (2020). Mobility patterns of the Portuguese population during the COVID-19 pandemic. Submitted to  International Conference on Information Technology & Systems (ICTS) 2021. ArXiv ID: https://arxiv.org/abs/2007.06506. Retrieved from https://github.com/tamagusko/icts21 (accessed on MONTH DAY, YEAR).
