@@ -3,8 +3,8 @@ This repository contains the results of paper "Mobility patterns of the Portugue
 The preprint for this paper is available at: https://arxiv.org/abs/2007.06506  
 
 # Basic info
-© Tiago Tamagusko  
-Project Page: <a href="https://github.com/tamagusko/icts21">https://github.com/tamagusko/icts21</a>  
+© [Tiago Tamagusko](https://tamagusko.github.io)  
+Project Page: https://github.com/tamagusko/icts21  
 ArXiv: https://arxiv.org/abs/2007.06506  
 License: [CC-BY-NC-ND-4.0](/LICENSE)
 
