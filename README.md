@@ -14,13 +14,13 @@ SARS-CoV-2 emerged in late 2019. Since then, it has spread to several countries,
 # Data
 **Google Mobility Reports:**  
 > Raw data:  
-> Google LLC. Google COVID-19 Community Mobility Reports Available online: https://www.google.com/covid19/mobility/ (accessed on Ago 20, 2020)  
+> Google LLC. Google COVID-19 Community Mobility Reports. Available online: https://www.google.com/covid19/mobility/ (accessed on Ago 20, 2020)  
 > Processed data:  
 > <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/googleMobiDataPT.csv">/data/googleMobiDataPT.csv</a> (Data formatted for Portugal)
 
 **Covid 19 cases reference:**
 > Raw data:  
-> Roser, M.; Ritchie, H.; Ortiz-Ospina, E.; Hasell, J. Coronavirus Pandemic (COVID-19) - Statistics and Research Available online: https://ourworldindata.org/coronavirus (accessed on Ago 20, 2020)  
+> Roser, M.; Ritchie, H.; Ortiz-Ospina, E.; Hasell, J. Coronavirus Pandemic (COVID-19) - Statistics and Research. Available online: https://ourworldindata.org/coronavirus (accessed on Ago 20, 2020)  
 > Processed data:  
 > <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/covid19DataPT.csv">/data/covid19DataPT.csv</a> (Data formatted for Portugal)  
 > <a href="https://raw.githubusercontent.com/tamagusko/icts21/master/data/resultRtPT.csv">/data/resultRtPT.csv</a> (Rt calculated for Portugal)
