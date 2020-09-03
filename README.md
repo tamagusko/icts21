@@ -27,3 +27,16 @@ SARS-CoV-2 emerged in late 2019. Since then, it has spread to several countries,
 
 # Citation
 Tamagusko, T. and Ferreira, A. (2020). Mobility patterns of the Portuguese population during the COVID-19 pandemic. Submitted to  International Conference on Information Technology & Systems (ICTS) 2021. ArXiv ID: https://arxiv.org/abs/2007.06506. Retrieved from https://github.com/tamagusko/icts21 (accessed on MONTH DAY, YEAR).
+
+```bibtex
+@article{Tamagusko-Ferreira2020,
+  archivePrefix = {arXiv},
+  arxivId = {arXiv:2007.06506},
+  author = {Tamagusko, T. and Ferreira, A.},
+  title = "{Mobility patterns of the Portuguese population during the COVID-19 pandemic}",
+  keywords = {COVI-19 - Mobility Patterns - Rt - Changepoint - Modeling},
+  journal = {ArXiv e-prints},
+  eprint = {arXiv:2007.06506},
+  year = {2020}
+}
+```
