@@ -32,7 +32,7 @@ Tamagusko, T. and Ferreira, A. (2020). Mobility patterns of the Portuguese popul
 @article{Tamagusko-Ferreira2020,
   archivePrefix = {arXiv},
   arxivId = {arXiv:2007.06506},
-  author = {Tamagusko, T. and Ferreira, A.},
+  author = {Tiago Tamagusko and Adelino Ferreira},
   title = "{Mobility patterns of the Portuguese population during the COVID-19 pandemic}",
   keywords = {COVI-19 - Mobility Patterns - Rt - Changepoint - Modeling},
   journal = {ArXiv e-prints},
