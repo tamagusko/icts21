@@ -3,10 +3,10 @@ This repository contains the results of paper "Mobility patterns of the Portugue
 The preprint for this paper is available at: https://arxiv.org/abs/2007.06506  
 
 ## Basic info
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE) [![made-with-R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)](https://www.r-project.org/)   
 © [Tiago Tamagusko](https://tamagusko.github.io)  
 Project Page: https://github.com/tamagusko/icts21  
 ArXiv: https://arxiv.org/abs/2007.06506  
-License: [CC-BY-NC-ND-4.0](/LICENSE)
 
 ## Abstract
 SARS-CoV-2 emerged in late 2019. Since then, it has spread to several countries, becoming classified as a pandemic. So far, there is no definitive treatment or vaccine, so the best solution is to prevent transmission between individuals through social distancing. However, it is difficult to measure the effectiveness of these distance measures. Therefore, this study uses data from Google COVID-19 Community Mobility Reports to try to understand the mobility patterns of the Portuguese population during the COVID-19 pandemic. In this study, the *Rt* value was modeled for Portugal. Also, the changepoint was calculated for the population mobility patterns. Thus, the change in the mobility pattern was used to understand the impact of social distance measures on the dissemination of COVID-19. As a result, it can be stated that the initial *Rt* value in Portugal was very close to 3, falling to values close to 1 after 25 days. Social isolation measures were adopted quickly. Furthermore, it was observed that public transport was avoided during the pandemic. Finally, until the emergence of a vaccine or an effective treatment, this is the new normal, and it must be understood that new patterns of mobility, social interaction, and hygiene must be adapted to this reality.
